@@ -12,4 +12,13 @@
     </config-file>
     <source-file src="src/ios/FirebaseNative.m" />
   </platform>
+  <platform name="android">
+    <config-file parent="/*" target="res/xml/config.xml">
+      <feature name="FirebaseNative">
+        <param name="android-package" value="cordova-plugin-firebase-native.FirebaseNative" />
+      </feature>
+    </config-file>
+    <config-file parent="/*" target="AndroidManifest.xml"></config-file>
+    <source-file src="src/android/FirebaseNative.java" target-dir="src/cordova-plugin-firebase-native/FirebaseNative" />
+  </platform>
 </plugin>
