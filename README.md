@@ -25,4 +25,5 @@ You'll be able to initialize a single or all of Firebase SDK's as you want:
 | `Firebase\RemoteConfig`                       |                    |:clock230:           | :clock230:          |
 | `Firebase\Auth`                               |:clock230:          |:clock230:           | :clock230:          |
 | `Firebase\Storage`                            |:clock230:          |:clock230:           | :clock230:          |
+| `Firebase\Performance`                        |                    |:clock230:           | :clock230:          |
 
