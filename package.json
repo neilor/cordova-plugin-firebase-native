@@ -1,0 +1,57 @@
+{
+  "name": "cordova-plugin-firebase-native",
+  "version": "0.0.1",
+  "description": "Firebase Native SDK for Cordova with all available features",
+  "cordova": {
+    "id": "cordova-plugin-firebase-native",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neilor/cordova-plugin-firebase-native.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-web",
+    "cordova-plugin",
+    "cordova-plugin-firebase",
+    "cordova-plugin-firebase-sdk",
+    "ionic",
+    "firebase",
+    "firebase-sdk",
+    "firebase-native",
+    "cordova-ionic",
+    "cordova-firebase",
+    "cordova-firebase-native",
+    "cordova-firebase-sdk",
+    "cordova-firebase-native-sdk",
+    "cordova-firebase-database",
+    "cordova-firebase-realtime-database",
+    "cordova-firebase-messaging",
+    "cordova-firebase-cloud-messaging",
+    "cordova-firebase-push-notification",
+    "cordova-firebase-crash-reporting",
+    "cordova-firebase-authentication",
+    "cordova-firebase-ui",
+    "cordova-firebase-analytics",
+    "cordova-firebase-performance-monitoring",
+    "cordova-firebase-admob",
+    "cordova-firebase-remote-config",
+    "cordova-firebase-dynamic-links",
+    "cordova-firebase-storage",
+    "cordova-firebase-cloud-storage",
+    "cordova-firebase-invites",
+    "ionic-firebase-native",
+    "ionic-firebase-sdk",
+    "ionic-firebase"
+  ],
+  "author": "Neilor Caldeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neilor/cordova-plugin-firebase-native/issues"
+  },
+  "homepage": "https://github.com/neilor/cordova-plugin-firebase-native#readme"
+}

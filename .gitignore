@@ -1,0 +1,15 @@
+# Ignore, ignore and more
+*.csproj.user
+*.suo
+*.cache
+Thumbs.db
+*.DS_Store
+
+*.bak
+*.cache
+*.log
+*.swp
+*.user
+
+/.project
+node_modules
